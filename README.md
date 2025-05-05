@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KRATES105
 - 👀 I’m interested in programming and cybersecurity.
-- 🌱 I’m currently learning in class 11.
+- 🌱 I’m currently learning in class 12.
 - 💞️ I’m looking for small projects .
 - 📫 How to reach me just text me 
 - ⚡ Fun fact: Still learning python programming language.
